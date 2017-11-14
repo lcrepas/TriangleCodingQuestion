@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleCodingQuestion", "TriangleCodingQuestion\TriangleCodingQuestion.csproj", "{B3B2B4DA-08E4-4B84-AE11-183F3194EBA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleCodingQuestion.Tests", "TriangleCodingQuestion.Tests\TriangleCodingQuestion.Tests.csproj", "{1854D2DF-B6FF-4F7D-A2BA-B4C1666D262F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B3B2B4DA-08E4-4B84-AE11-183F3194EBA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3B2B4DA-08E4-4B84-AE11-183F3194EBA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3B2B4DA-08E4-4B84-AE11-183F3194EBA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1854D2DF-B6FF-4F7D-A2BA-B4C1666D262F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1854D2DF-B6FF-4F7D-A2BA-B4C1666D262F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1854D2DF-B6FF-4F7D-A2BA-B4C1666D262F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1854D2DF-B6FF-4F7D-A2BA-B4C1666D262F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

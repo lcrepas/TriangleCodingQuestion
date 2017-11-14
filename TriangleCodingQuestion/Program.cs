@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TriangleCodingQuestion
 {
@@ -10,6 +6,9 @@ namespace TriangleCodingQuestion
     {
         static void Main(string[] args)
         {
+            var imageCalculator = new ImageCalculator();
+            string output = imageCalculator.GetImageTriangle(args);
+            Console.WriteLine(output);
         }
     }
 }
